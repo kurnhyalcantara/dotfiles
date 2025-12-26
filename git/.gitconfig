@@ -31,3 +31,4 @@
   psu = push --set-upstream origin
   ca = commit -a
   log = log --oneline --graph --decorate --all
+  po = pull origin
